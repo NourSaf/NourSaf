@@ -1,5 +1,5 @@
-# About Me:
-Welcome to Nour’s space — where everyone is welcome! 🌍<br><br>👋 Hi, I'm Nour — I like data and love structured data.<br><br>🎓  MSc in Data Visualization from Parsons School of Design and Technology, The New School, New York City, USA. Completed with the New School and Fulbright Germany Scholarships.<br>🎓  B.A. in Visual Communication from the Berlin University of the Arts, Berlin, Germany.<br><br>🌱 Currently, I’m sharpening my skills in Data Analytics at Spiced Academy in Berlin.<br>💬 Let's talk about ethical AI, algorithmic transparency, and the politics of data.<br>⚡ Did you know that Falafel is fried hummus?<br>
+# Welcome to Nour’s space — where everyone is welcome! 🌍
+👋 Hi, I'm Nour — I like data and love structured data.<br><br>🎓  MSc in Data Visualization from Parsons School of Design and Technology, The New School, New York City, USA. Completed with the New School and Fulbright Germany Scholarships.<br>🎓  B.A. in Visual Communication from the Berlin University of the Arts, Berlin, Germany.<br><br>🌱 Currently, I’m sharpening my skills in Data Analytics at Spiced Academy in Berlin.<br>💬 Let's talk about ethical AI, algorithmic transparency, and the politics of data.<br>⚡ Did you know that Falafel is fried hummus?<br>
 
 
 ## 🌐 Socials:
