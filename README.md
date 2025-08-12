@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nour-al-safadi-765771205/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-al-safadi-765771205/)
 
 # 💻 Tech Stack:
 ![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=for-the-badge&logo=sqlite&logoColor=white)
